@@ -1,0 +1,14 @@
+* {
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 256px;
+    height: 256px;
+    object-fit: cover;
+}
+
+.last-name {
+    text-transform: uppercase;
+}
